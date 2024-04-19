@@ -40,7 +40,7 @@
 
 Fase 1:
 - [ ] Requisitos iniciais.
-- [ ] Lista de funcionalidades essenciais [[Estágio atual]](./doc/funcionalities.md).
+- [ ] [Lista de funcionalidades essenciais](./doc/funcionalities.md) [Estágio atual].
 - [ ] Linguagens de pragramação/Skills utilizadas.
 - [ ] Bibliotecas e dependências necessárias.
 - [ ] Estrutura básica do projeto.

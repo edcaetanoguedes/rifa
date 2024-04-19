@@ -25,3 +25,5 @@
 - Notificações
 - Perfil do usuário
 - Segurança e Privacidade
+
+[Voltar para o README](../README.md)
