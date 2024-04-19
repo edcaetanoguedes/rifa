@@ -1,4 +1,5 @@
-<h1>Calculadora (ReactJs) <img
+<h1>Rifa (ReactJs)
+  <img
     src="https://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRU%C3%87%C3%83O&color=GREEN&style=for-the-badge"
     width="200" />
 </h1>
@@ -9,7 +10,8 @@
 </div>
 
 <div class="production" align="left">
-  <p>Projeto de Rifa em React para fins didáticos e exibição de conhecimentos práticos. Para ver o estágio atual do projeto em produção <a href="https://simple-rifa.vercel.app/">Clique aqui</a>!</p>
+  <p>Projeto de Rifa em React para fins didáticos e exibição de conhecimentos práticos. Para ver o estágio atual do
+    projeto em produção <a href="https://simple-rifa.vercel.app/">Clique aqui</a>!</p>
 </div>
 
 <div class="author">
@@ -32,17 +34,17 @@
 
 ## Requisitos iniciais do projeto
 
-- 
+-
 
 ## Estágios do projeto
 
 Fase 1:
 - [ ] Requisitos iniciais.
-  - [ ] Lista de funcionalidades essenciais [[Estágio atual]]().
-  - [ ] Linguagens de pragramação/Skills utilizadas.
-  - [ ] Bibliotecas e dependências necessárias.
-  - [ ] Estrutura básica do projeto.
-  - [ ] Redação inicial do README.
+- [ ] Lista de funcionalidades essenciais [[Estágio atual]](./doc/funcionalities.md).
+- [ ] Linguagens de pragramação/Skills utilizadas.
+- [ ] Bibliotecas e dependências necessárias.
+- [ ] Estrutura básica do projeto.
+- [ ] Redação inicial do README.
 Fase 2:
 - [ ] Desenvolvimento do Backend.
 - [ ] Desenvolvimento do Frontend.
@@ -82,8 +84,7 @@ Obs: Implantação via Githut CLI.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
     alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"
-    alt="Redux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"
     alt="next js logo" />
